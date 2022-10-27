@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.10315b7e.css",
+    "main.js": "/Portfolio/static/js/main.4d0a5e7a.js",
+    "static/media/drumKit.png": "/Portfolio/static/media/drumKit.9d764c1821e7d5b1e51c.png",
+    "static/media/sun.png": "/Portfolio/static/media/sun.e08721323b26584ba7e4.png",
+    "static/media/keeper-app.png": "/Portfolio/static/media/keeper-app.aeecc862f345715e3d88.png",
+    "static/media/vscode.png": "/Portfolio/static/media/vscode.19edc3fbac1c451f289d.png",
+    "static/media/java.png": "/Portfolio/static/media/java.86407ffa56ebe1f70b6a.png",
+    "static/media/blog.png": "/Portfolio/static/media/blog.eeb657900fa5b6a19d89.png",
+    "static/media/mongodb.png": "/Portfolio/static/media/mongodb.3a364684503a40b5fbb2.png",
+    "static/media/todolist.png": "/Portfolio/static/media/todolist.91598b8302ff341f9f2d.png",
+    "static/media/bootstrap.png": "/Portfolio/static/media/bootstrap.e53d77fae52c3827fb74.png",
+    "static/media/yash.png": "/Portfolio/static/media/yash.bf92a52f021541e39cb3.png",
+    "static/media/simon.png": "/Portfolio/static/media/simon.8264148405c98c2bbd26.png",
+    "static/media/javascript.png": "/Portfolio/static/media/javascript.130c0ecd57833da6f75c.png",
+    "static/media/NLSU.png": "/Portfolio/static/media/NLSU.d71c07eb675b98569598.png",
+    "static/media/node.png": "/Portfolio/static/media/node.abfaef34ea49d0c7cd3c.png",
+    "static/media/moon.png": "/Portfolio/static/media/moon.41bcd742afa60e1ccd43.png",
+    "static/media/css.png": "/Portfolio/static/media/css.4e67641bb68b658d9b2b.png",
+    "static/media/html.png": "/Portfolio/static/media/html.23784160d848f734c302.png",
+    "static/media/react.png": "/Portfolio/static/media/react.fd373eec9017cf21b26d.png",
+    "static/media/phone.png": "/Portfolio/static/media/phone.2ff7bf78b4f39f52a7b9.png",
+    "static/media/edu.png": "/Portfolio/static/media/edu.b3f87789da4eed571b42.png",
+    "static/media/express.png": "/Portfolio/static/media/express.1636c8b6761eb21d78fd.png",
+    "static/media/jquery.png": "/Portfolio/static/media/jquery.0bcc2a2f079171db4538.png",
+    "static/media/sql.png": "/Portfolio/static/media/sql.159e857cb6a2974bc942.png",
+    "static/media/mysql.png": "/Portfolio/static/media/mysql.4676ad983d6bd3e9fac9.png",
+    "index.html": "/Portfolio/index.html",
+    "main.10315b7e.css.map": "/Portfolio/static/css/main.10315b7e.css.map",
+    "main.4d0a5e7a.js.map": "/Portfolio/static/js/main.4d0a5e7a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10315b7e.css",
+    "static/js/main.4d0a5e7a.js"
+  ]
+}
