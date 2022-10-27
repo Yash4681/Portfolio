@@ -1,0 +1,21 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.f{
+    background-color: #59b256;
+    padding: 10px;
+    border: 1px;
+    display: flex;
+    justify-content: center;
+}
+
+.f-wrapper{
+    padding: 10px;
+}
+
+.f-item{
+    padding: 0 20px;
+    color: white;
+    justify-content: center;
+}

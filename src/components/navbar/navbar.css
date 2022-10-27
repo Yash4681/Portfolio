@@ -1,0 +1,30 @@
+.n{
+    background-color: #59b256;
+    position: fixed;
+    color: white;
+    width: 100%;
+    z-index: 3;
+    padding: 10px 40px;
+    font-size: large;
+}
+
+.nb{
+    font-size: x-large;
+    height: 10px;
+    padding: 0 0 20px ;
+}
+
+.n-items{
+    padding: 0 30px;
+}
+
+@media screen and (max-width: 480px) {
+    .n{
+        padding: 0 40px;
+    }
+    
+    .nb{
+        height: 5vh;
+    }
+
+}
